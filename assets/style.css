@@ -5,5 +5,8 @@
 
 .header__title {
     color: blueviolet;
+    font-size: 70px;
+    border: 2px solid blue;
+    text-align: center;
 }
 
